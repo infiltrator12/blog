@@ -1,10 +1,9 @@
-import React from 'react';
-import Logo from "../img/logo.png";
+import React from 'react'
 
 const Footer = () => {
   return (
     <footer>
-      <img src={Logo} alt="" />
+      <img src={""} alt="" />
       <span>Twitter</span>    
       <span>Instagram</span>    
       <span>Facebook</span>    
